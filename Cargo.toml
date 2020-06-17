@@ -1,0 +1,8 @@
+[package]
+name = "hello-nannou"
+version = "0.1.0"
+authors = ["FMS-Cat <yutaka.obuchi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.14"
